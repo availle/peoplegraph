@@ -1,6 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
+# nur ein Kommentar
 #Funktion, die alle Knoten des Graphen druckt
 def traverseNodes(g):
     for n in g.nodes:
